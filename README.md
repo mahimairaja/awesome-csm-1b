@@ -14,7 +14,7 @@ A collection of powerful applications built with the Sesame CSM-1b text-to-speec
 | Application | Description | Key Features | Status |
 |-------------|-------------|-------------|--------|
 | [Personal Voice Diary](src/personal-voice-diary/) | Convert diary entries into natural-sounding speech | Voice cloning, entry management, playback | 🔜 Planned |
-| [Audiobook Creator](src/audio-book-creator/) | Create audiobooks from any text | Text chunking, multiple voices, background processing | ✅ Complete |
+| [Audiobook Creator](src/audio-book-creator/) | Create audiobooks from any text | Text chunking, multiple voices, background processing | Completed |
 | [Voice Message Creator](src/voice-message-creator/) | Generate sharable voice messages | Custom voices, QR codes, expiring messages | 🔜 Planned |
 | [Story Narrator for Children](src/story-narrator-for-children/) | Narrate children's stories with character voices | Character voices, sound effects | 🔜 Planned |
 | [Emotion-based Voice Generator](src/emotion-based-voice-generator/) | Generate speech with different emotions | Multiple emotion presets, intensity control | 🔜 Planned |
